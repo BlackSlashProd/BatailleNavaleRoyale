@@ -12,9 +12,7 @@
 
 <h2>URL</h2>
 
-<b>Subject URL : </b> <a href="https://github.com/BlackSlashProd/Bomberman/blob/master/Sujet%20du%20projet.pdf" target="_blank">SujetProjetBomberman.pdf</a><br/>
-
-<b>Report URL : </b> <a href="https://github.com/BlackSlashProd/Bomberman/blob/master/Rapport.pdf" target="_blank">RapportProjetBomberman.pdf</a><br/>
+<b>Report URL : </b> <a href="https://github.com/BlackSlashProd/BatailleNavaleRoyale/blob/master/rapport.pdf" target="_blank">RapportProjetBatailleNavaleRoyale.pdf</a><br/>
  
 <h2>Authors</h2>
 
